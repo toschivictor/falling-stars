@@ -1,2 +1,4 @@
-# falling-starts
-Project to play around with Pixi.js
+# Catch the Falling Stars
+
+A small interactive game where stars fall from the top, and the player controls a character (e.g., a bucket or a spaceship) to catch them.
+The main goa of this project is to play around with Pixi.js
